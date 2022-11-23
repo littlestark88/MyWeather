@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="label_your_api_key">Your API Key</string>
+    <string name="label_city_name">City Name</string>
+    <string name="label_api_key">ff9f895b2e884d6680530135202710</string>
+    <string name="label_select_your_city">Select your city</string>
+    <string name="label_submit">Submit</string>
+    <string name="label_choose_your_city">Choose your city</string>
+    <string name="label_loading">Loading</string>
+    <string name="label_celsius">Celsius</string>
+    <string name="label_fahrenheit">Fahrenheit</string>
+    <string name="label_information">Information</string>
+    <string name="action_oke">Oke</string>
+    <string name="label_failed_current_weather">Failed to get current weather</string>
+    <string name="label_choose_city">Please choose a city</string>
+
+    <string-array name="city">
+        <item>Kuala Lumpur</item>
+        <item>Singapore</item>
+    </string-array>
+</resources>
